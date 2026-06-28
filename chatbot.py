@@ -1,8 +1,3 @@
-# ─────────────────────────────────────────────
-#  Task 4: Basic Rule-Based Chatbot
-#  Concepts: if-elif, functions, loops, I/O
-# ─────────────────────────────────────────────
-
 def get_reply(user_input):
     """Return a predefined reply based on the user's input."""
     msg = user_input.lower().strip()
